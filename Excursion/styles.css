@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+    display: block;
+}
+
+.header {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+video {
+    margin: 20px auto;
+    display: block;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p.personal {
+    font-size: 21px;
+    color: grey;
+}
+
+img {
+    margin: 20px auto;
+    display: block;
+}
+
+span {
+    text-align: right;
+    color: grey;
+    display: block;
+    margin-top: 20px;
+}
