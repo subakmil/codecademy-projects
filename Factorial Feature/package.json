@@ -1,0 +1,14 @@
+{
+  "name": "factorial-feature",
+  "version": "1.0.0",
+  "description": "Factorial Feature project",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Milos Subak",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
